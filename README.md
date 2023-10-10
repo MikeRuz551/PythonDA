@@ -1,5 +1,5 @@
 # PythonDA
-Ответы на практические работы МГПУ
+Ответы на практические работы МГПУ (магистратура)
 
 [Homwork #1](https://github.com/MikeRuz551/PythonDA/blob/main/01work_Python.ipynb)
 
