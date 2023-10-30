@@ -7,5 +7,5 @@
 
 [Practice work #1](https://github.com/MikeRuz551/PythonDA/blob/main/Practice1.ipynb)
 
-.[Practice work#2](Practice_work02.ipynb)
+[Practice work#2](Practice_work02.ipynb)
 
