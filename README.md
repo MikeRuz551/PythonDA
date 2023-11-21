@@ -7,6 +7,8 @@
 
 [Homework #3](practice_work03_pandas.ipynb)
 
+[Homework #4](https://github.com/MikeRuz551/PythonDA/blob/main/hw_4_visualisation.ipynb)
+
 [Practice work #1](https://github.com/MikeRuz551/PythonDA/blob/main/Practice1.ipynb)
 
 [Practice work#2](Practice_work02.ipynb)
