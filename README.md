@@ -13,3 +13,4 @@
 
 [Practice work#2](Practice_work02.ipynb)
 
+[Practice work#3](https://github.com/MikeRuz551/PythonDA/blob/main/01_Symbolic_mathematics_with_Sympy_SM.ipynb)
